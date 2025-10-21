@@ -17,9 +17,9 @@
 
 #### Clone eepository
 ```bash
-# Clone the repository
-git clone https://github.com/jalvarez01/L-gica--pr-ctica-1$0
-cd cnf-converter
+
+[git clone https://github.com/jalvarez01/L-gica--pr-ctica-1$0
+cd cnf-converter](https://github.com/jalvarez01/L-gica--pr-ctica-2)
 
 # Make executable (Unix/Linux/macOS)
 chmod +x Formula.py
